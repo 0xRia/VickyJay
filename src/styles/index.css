@@ -18,7 +18,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   /* background-color: #0a1c20; */
-  background-color: #061417;
+  background-color: #111148;
   /* background-color: black; */
   color: white;
   font-family: "Poppins", sans-serif;
@@ -45,7 +45,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 html {
-  scrollbar-color: rgb(0, 0, 0, 0.4) rgb(0, 0, 0, 0);
+  scrollbar-color: rgba(26, 22, 53, 0.4) rgba(22, 15, 53, 0);
   scrollbar-width: thin;
 }
 
@@ -134,12 +134,12 @@ SEXY ANIMATION CODE
   /* font-weight: 900; */
   /* line-height: 1.2; */
   /* letter-spacing: -0.03em; */
-  color: rgba(255, 255, 255, 0);
+  color: rgba(26, 10, 83, 0);
   text-transform: capitalize;
 }
 
 .gradientText h2 {
-  color: rgba(255, 255, 255, 0);
+  color: rgba(10, 10, 32, 0);
   text-transform: capitalize;
 
   @apply flex items-center font-clashbold font-semibold text-white text-[20px] leading-[30.75px] lg:text-[60px] lg:leading-[73.8px];

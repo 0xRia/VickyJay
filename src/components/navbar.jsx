@@ -26,7 +26,7 @@ const Navbar = () => {
                       : "text-white hover:before:w-full"
                   } relative`}
                 >
-                  VickyJay<span>!</span>
+                  0xria<span>!</span>
                   <span>⚡</span>
                 </div>
               )}
@@ -35,13 +35,13 @@ const Navbar = () => {
               <Link
                 target="_blank"
                 rel="noreferrer"
-                to="https://www.github.com/victorola-coder"
+                to="https://www.github.com/0xria"
                 className="group-hover:text-white transition-colors duration-300"
               >
                 <span className="flex items-center gap-[8px] md:gap-[10px]">
                   <GhIcon className="opacity-60 w-[26px] h-[26px] md:w-[32px] md:h-[32px] transition-opacity duration-300 group-hover:opacity-100" />
                   <p className="font-clash text-[15px] md:text-[18px] font-medium group-shover:text-white transition-colors duration-300">
-                    github
+                    Github
                   </p>
                 </span>
               </Link>

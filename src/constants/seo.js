@@ -1,10 +1,10 @@
 const image =
   "https://res.cloudinary.com/dkoe20rzl/image/upload/v1692130992/cover_xhnhes.png";
-const creator = "VickyJay";
+const creator = "0xria";
 const author = creator;
 
 export const url = (slug) => {
-  return `https://victorola.me/${slug ?? ""}`;
+  return `https://vgithub.com/0xria${slug ?? ""}`;
 };
 export const SEOdata = {
   homePage: {
@@ -12,8 +12,8 @@ export const SEOdata = {
     image,
     creator,
     url: url(),
-    title: "VickyJay - Creative Frontend Engineer",
+    title: "0xria- Crybersecurity Engineer",
     description:
-      "I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.",
+      "I enjoy building security systems to safeguard digital assets and data.",
   },
 };

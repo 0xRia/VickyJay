@@ -1,6 +1,6 @@
-export const META_TITLE = "VickyJay - Creative Frontend Engineer";
+export const META_TITLE = "0xRia - Cybersecurity Enthusiast";
 export const META_DESCRIPTION =
-  "I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.";
+  "I enjoy building security systems to safeguard digital assets and data.";
 
 // Spotify data
 export const token =

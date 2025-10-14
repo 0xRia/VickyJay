@@ -38,32 +38,12 @@ const Services = () => {
               <p
                 className={`font-normal text-[13px] leading-[19.5px] mt-4 max-w-[308px] lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
               >
-                I create beautiful interfaces with HTML, CSS TailwindCss,
-                Bootstrap, JavaScript, ReactJs, NextJs & Typescript.
+                I create mindblowing server-side interfaces with Python, Django, Typescript
+                Javascript.
               </p>
             </motion.div>
           </motion.div>
-          <motion.div
-            whileHover={{ scale: 0.99 }}
-            className="bg-gradient-to-r max-w-[369.808px] lg:max-w-[642px] to-[#F0FEFF4D] from-[#F0FEFF00] pr-0.5 pt-0.5"
-          >
-            <motion.div
-              whileHover={{ scale: 0.99 }}
-              className={`bg-[#0A1C20] shrink-0 text-[#FFFFFF99] py-[65px] px-[27px] max-w-[369.808px] h-[240px] lg:py-[100px] lg:px-[49px] lg:max-w-[641px] lg:h-[416px]`}
-            >
-              <h4
-                className={`font-semibold uppercase text-white text-[20px] leading-[24.6px] font-clashbold max-w-[156px] lg:max-w-[400px] lg:text-[40px] lg:leading-[49.2px]`}
-              >
-                Responsive Design
-              </h4>
-              <p
-                className={`font-normal text-[13px] leading-[19.5px] mt-4 max-w-[308px] lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
-              >
-                Building websites and applications that work seamlessly on
-                various devices and screen sizes, from desktop to smartphones.
-              </p>
-            </motion.div>
-          </motion.div>
+          
           <motion.div
             whileHover={{ scale: 0.99 }}
             className="bg-gradient-to-l max-w-[369.808px] lg:max-w-[642px] to-[#F0FEFF4D] from-[#F0FEFF00] pl-0.5 pt-0.5"
@@ -127,25 +107,7 @@ const Services = () => {
               </p>
             </motion.div>
           </div>
-          <div className="bg-gradient-to-b max-w-max to-[#F0FEFF4D] from-[#F0FEFF00] pr-0.5 pb-0.5">
-            <motion.div
-              whileHover={{ scale: 0.99 }}
-              className={`bg-[#0A1C20] shrink-0 text-[#FFFFFF99] py-[65px] px-[27px] max-w-[369.808px] h-[240px] lg:py-[100px] lg:px-[49px] lg:max-w-[641px] lg:h-[416px]`}
-            >
-              <h4
-                className={`font-semibold uppercase text-[20px] leading-[24.6px] max-w-[156px] text-white font-clashbold lg:max-w-[400px] lg:text-[40px] lg:leading-[49.2px]`}
-              >
-                UI Design
-              </h4>
-              <p
-                className={`font-normal  text-[13px] leading-[19.5px] max-w-[308px] mt-4  lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
-              >
-                Designing the visual elements of the user interface, including
-                layout, typography, color schemes, icons, and other graphical
-                elements.
-              </p>
-            </motion.div>
-          </div>
+        
           <div className="bg-gradient-to-b max-w-[369.808px] lg:max-w-[642px] to-[#F0FEFF4D] from-[#F0FEFF00] pl-0.5 pb-0.5">
             <motion.div
               whileHover={{ scale: 0.99 }}
@@ -159,7 +121,7 @@ const Services = () => {
               <p
                 className={`font-normal text-[13px] leading-[19.5px] max-w-[308px] mt-4  lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
               >
-                Staying updated with the latest frontend technologies, trends,
+                Staying updated with the latest cybersecurity & backend technologies, trends,
                 and best practices to deliver modern and innovative solutions.
               </p>
             </motion.div>
@@ -177,7 +139,7 @@ const Services = () => {
               <p
                 className={`font-normal text-[13px] leading-[19.5px] max-w-[308px] mt-4  lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
               >
-                Providing technical support to troubleshoot frontend-related
+                Providing technical support to troubleshoot cybersecurity & backend-related
                 issues.
               </p>
             </motion.div>

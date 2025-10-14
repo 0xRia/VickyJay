@@ -1,10 +1,15 @@
-personal portfolio website - August, 9th 2023.
+personal portfolio website - September, 29th, 2025.
 
 
-edit asf
+edit asf:
+experience.jsx
+resume.jsx
+services.jsx
 
 
-- Wants to add spotify playing display
 
+
+npm run dev : to start
+ctrl + c : to end
 
 DEPLOY

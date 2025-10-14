@@ -13,8 +13,8 @@ function Home() {
   return (
     <>
       <SEO
-        title="Victor"
-        description="I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences."
+        title="Gloria"
+        description="I enjoy building security systems to safeguard digital assets and data."
       />
       <main>
         <Navbar />

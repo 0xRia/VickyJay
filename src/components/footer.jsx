@@ -25,10 +25,10 @@ const Footer = () => {
               <Copyright className="size-[18px] md:size-[20px]" />
             </span>
             <p className={`text-[#FFFFFF99] md:text-xl text-lg font-medium`}>
-              Victorola
+              Gloria Samuel
               <span className="text-[#FFFFFF] text-[14px] lg:text-base">
                 {" "}
-                2021 -
+                
               </span>{" "}
               <span className="text-[#FFFFFF] text-[14px] lg:text-base">
                 {new Date().getFullYear()}
@@ -39,22 +39,14 @@ const Footer = () => {
             {time}
           </p>
         </div>
+
+        
+
+
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
+        
           <motion.a
-            href="https://web.facebook.com/victortoluu"
-            target="_blank"
-            rel="noreferrer"
-            whileTap={{ scale: 1.1 }}
-            whileHover={{ scale: 0.99 }}
-            className="h-auto w-auto"
-          >
-            <FbIcon
-              fill={`#FFFFFF99`}
-              className={`w-[30px] h-[30px] rounded-full border-[#FFFFFF99] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-gray-500`}
-            />
-          </motion.a>
-          <motion.a
-            href="https://twitter.com/HeyVickyJay"
+            href="https://twitter.com/_0xria_"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -67,7 +59,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/vickyjayox"
+            href="https://www.instagram.com/_0xria_"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -80,7 +72,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/victor-olatunji-889568246"
+            href="https://www.linkedin.com/in/0xria"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -98,11 +90,11 @@ const Footer = () => {
       {/* Shout out */}
       <div className="hidden  flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
         <h3>
-          Inspiration -&nbsp;
+          Inspiration - VickyJay&nbsp;
           <Link
             target="_blank"
             rel="noreferrer noopener"
-            to="https://www.pariola.dev/"
+            to="https://vickyjay.vercel.app/"
             className="text-white cursor-pointer"
             title="you might need internet to access this"
           >
