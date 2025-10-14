@@ -34,7 +34,7 @@ Welcome to my personal portfolio! This project showcases my cybersecurity skills
 
 ## Usage
 
-Feel free to customize this portfolio to showcase your own projects and skills. Update the project descriptions, images, and links to match your work. Shout out is important too(Vicky Jay)
+Feel free to customize this portfolio to showcase your own projects and skills. Update the project descriptions, images, and links to match your work. Shout out is important too([Vicky Jay](https://vickyjay.vercel.app/))
 
 ## Contact
 
@@ -42,7 +42,7 @@ If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: gloria.u.samuel@gmail.com
 - GitHub: [Gloria Samuel](https://github.com/0xria)
-- Portfolio: [preview](https://www.)
+- Portfolio: [preview]: in progress...
 
 ## Todos
 
