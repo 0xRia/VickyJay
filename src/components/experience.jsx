@@ -1,6 +1,6 @@
 import Resume from "./resume";
 import { ExpCircle } from "./svgs";
-import resumeUrl from "../utils/ovt.pdf";
+import resumeUrl from "../utils/Gloria Samuel - Resume.pdf";
 
 const Experience = () => {
   // console.log("resume", resumeUrl)
@@ -32,25 +32,25 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Software Engineer <span className="hidden">-</span> &nbsp;
+                 FinSec Engineer <span className="hidden">-</span> &nbsp;
                   <span className="hidden italic text-[#FFFFFF99]">
-                    2023 - till date
+                    Present
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Showmeelove -{" "}
+                  FauxFinder -{" "}
                   <span className="italic animate-pulse text-[#FFFFFF99] text-sm">
-                    some idea im building
+                    some idea i'm cooking up...
                   </span>
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a Lead Frontend Engineer at showmeelove, crafting
-                  thoughtful and inclusive experiences that adhere to web
-                  standards.
+                  My current project, a fintech security solution that
+                  provides robust protection against fraud and cyber threats
+                  for financial institutions and their customers.
                 </h5>
               </div>
             </div>
@@ -63,22 +63,24 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Fullstack Developer <span>-</span>&nbsp;
+                  Volunteer<span>-</span>&nbsp;
                   <span className="text-xs md:text-base italic text-[#FFFFFF99]">
-                    March, 2024 - till date
+                   DEC  2022 - AUG 2023
+
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  Zero Studio, India.
+                  Google Developer Student Clubs - Admiralty University of Nigeria
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  Collaborated with UX and UI designers to create intuitive user
-                  interfaces for web applications. Troubleshot bugs in
-                  production code and resolved them efficiently.
+                  Google Developers Student Club is a tech community for those interested in technology. And who loves to volunteer at events and loves networking? As a member of GDSG ADUN, I was part of the volunteer team that:
+                  I organise tutoring classes for those interested in web development.
+                  Worked with the GDSC team to host a couple of events physically and virtually.
+
                 </h5>
               </div>
             </div>
@@ -91,79 +93,47 @@ const Experience = () => {
 
               <div>
                 <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Frontend Engineer&nbsp;
+                  Trainee&nbsp;
                   <span className="hidden">-</span> &nbsp;
                   <span className="italic hidden text-[#FFFFFF99]">
-                    2023 - till date
+                    
+
+                  </span>
+                  <span className="text-xs md:text-base italic text-[#FFFFFF99]">
+                  May, 2019 – November, 2022( with academic breaks)
+
+
                   </span>
                 </h3>
                 <p
                   className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
-                  TekArt, Lagos, NG.
+                  Start Innovation Hub, Uyo  - Web Developer (Trainee)
                 </p>
                 <h5
                   className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
                 >
-                  I work as a frontend developer with the responsibility of
-                  building and managing the websites with a team of Creative
-                  developers.
+                  Start Innovation Hub is an ICT firm with an innovation lab in Uyo, Nigeria. At the Start Innovation Hub, completed hands-on training in Python, JavaScript, HTML, CSS, Typescript, Nest.js , Node.js, Laravel and PHP.
+                  Focused on building and Debugging small-scale applications and web solutions.
+                  Developed fundamental skills in fronted and backend coding, emphasizing problem-solving and clean code.
+                  Continued independent learning and projects to deepen proficiency in Python and JavaScript.
+
                 </h5>
               </div>
             </div>
-            {/* <div className="flex gap-[28px] lg:gap-[48px]">
+            
+            {/*<div className="relative flex gap-[28px] lg:gap-[48px]">
               <div className="relative">
                 <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
                   <ExpCircle />
                 </span>
-              </div>
+              </div>*/}
 
-              <div>
-                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Web Developer
-                </h3>
-                <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
-                >
-                  Flowday
-                </p>
-                <h5
-                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
-                >
-                  I work as a frontend developer integrating the figma design
-                  under a senior developer, I aced my skills of connecting
-                  frontend to backend.
-                </h5>
-              </div>
-            </div> */}
-            <div className="relative flex gap-[28px] lg:gap-[48px]">
-              <div className="relative">
-                <span className="absolute -top-1 -translate-x-[55%] lg:translate-x-[-50%]">
-                  <ExpCircle />
-                </span>
-              </div>
-
-              <div>
-                <h3 className="font-semibold text-white lg:text-[20px] lg:leading-[30px]  ">
-                  Creative Web Developer
-                </h3>
-                <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
-                >
-                  Vistapay, Uyo, Ng.
-                </p>
-                <h5
-                  className={`text-[#FFFFFF99] font-medium mt-[20px] max-w-[300px] md:max-w-md lg:mt-[19px] lg:max-w-[651px] lg:text-[18px] lg:leading-[27px]`}
-                >
-                  I work as a frontend developer building the system of the
-                  company, creating beautiful interfaces that user loves.
-                </h5>
-              </div>
-            </div>
+             
             {/* RESUME */}
             <Resume
               pdfUrl={resumeUrl}
-              fileName="Gloria Samuel.pdf"
+              fileName="Gloria Samuel - Resume.pdf"
               buttonText="Download Resume"
             />
           </div>

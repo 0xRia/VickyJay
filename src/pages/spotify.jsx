@@ -5,9 +5,9 @@ import { useState, useEffect } from "react";
 function Track({ name, artists }) {
   return (
     <div className="flex flex-col gap-4 ">
-      <div className="bg-[#0A1C20] rounded-[10px] p-4 flex flex-col items-start mt-3">
+      <div className="bg-[#000080] rounded-[10px] p-4 flex flex-col items-start mt-3">
         <h2 className="text-lg font-bold">{name}</h2>
-        <p className="text-[#FFFFFF99]">by {artists.join(", ")}</p>
+        <p className="text-[#FFFFFF]">by {artists.join(", ")}</p>
       </div>
     </div>
   );

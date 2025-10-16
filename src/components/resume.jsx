@@ -46,9 +46,9 @@ const Resume = ({ pdfUrl, fileName, buttonText }) => {
     <div className="transition-all duration-300 active:scale-[0.96] max-w-[200px] mx-auto md:mx-0 flex justify-center lg:flex lg:justify-start">
       <span
         onClick={downloadPDF}
-        className="cursor-pointer bg-gradient-to-r max-w-[197px] lg:max-w-[252px] to-[#D9D9D9] from-[#D9D9D900] py-0.5 pr-0.5"
+        className="cursor-pointer bg-gradient-to-r max-w-[197px] lg:max-w-[252px] to-[#000080] from-[#00008000] py-0.5 pr-0.5"
       >
-        <p className="bg-[#061417] px-[17px] py-[18px] font-medium text-[18px] font-clash">
+        <p className="bg-[#000080] px-[17px] py-[18px] font-medium text-[18px] font-clash">
           {buttonText || "Download PDF"}
         </p>
       </span>

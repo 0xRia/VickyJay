@@ -9,16 +9,16 @@ const Hero = () => {
           <div>
             <div className="gradientText">
               <h1
-              // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
+              // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#FFFFFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
               >Cybersecurity Engineer<span>.</span>
               </h1>
             </div>
-            <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF99] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
+            <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
               I enjoy building security systems to safeguard digital assets and data.
             </p>
             <div
               id="intro"
-              className="text-[#F0FEFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
+              className="text-[#FFFFFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
               <p className="max-w-[310px]">
                 4+ Years of experience in building security systems with my cybersecurity and backend expertise.
@@ -40,8 +40,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <TwIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-white`}
+                  fill={`#FFFFFF`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-[#000080]`}
                 />
               </motion.a>
               <motion.a
@@ -53,8 +53,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <IgIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
+                  fill={`#FFFFFF`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-[#000080]`}
                 />
               </motion.a>
               <motion.a
@@ -66,8 +66,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <InIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-white`}
+                  fill={`#FFFFFF`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-[#000080]`}
                 />
               </motion.a>
             </div>
@@ -76,7 +76,7 @@ const Hero = () => {
             <div className="relative flex flex-col justify-center w-max">
               <div className={`w-full`}>
                 <img
-                  src="/images/hero.png"
+                  src="/images/hero.jpeg"
                   alt="hero image is here"
                   className="absolute w-full h-full bottom-3 right-4 md:bottom-5 md:right-6 lg:bottom-10 lg:right-12"
                   draggable={false}
@@ -84,7 +84,7 @@ const Hero = () => {
                 />
               </div>
               <motion.div
-                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#1ED760]`}
+                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#000080]`}
               ></motion.div>
             </div>
           </div>

@@ -6,14 +6,12 @@ Welcome to my personal portfolio! This project showcases my cybersecurity skills
 
 ## Technologies Used
 
-- Python:
-- Typescript:
-- HTML:
-- CSS:
-- Nest js:
-- Node js:
-- MySQL:
-- Bootstrap:
+React.js: A popular JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for rapidly styling web applications.
+React Router: A library for managing routing and navigation in a React application.
+Framer Motion: A motion library for creating smooth animations and transitions.
+React Icons: A library providing a wide range of icons for your projects.
+
 
 ## Features
 
@@ -46,6 +44,6 @@ If you have any questions or would like to get in touch, you can reach me at:
 
 ## Todos
 
-- always update my resume
+- always update my resume and portfolio...
 
 Thank you for visiting my portfolio repository!
