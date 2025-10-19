@@ -2,9 +2,7 @@ personal portfolio website - September, 29th, 2025.
 
 
 edit asf:
-experience.jsx
-resume.jsx
-services.jsx
+data.js
 
 
 

@@ -13,7 +13,7 @@ const Hero = () => {
               ><span>.</span>
               </h1>
             </div>
-            <h1 className="font-clashbold font-semibold text-[80%] leading-[36.9px] text-[#6e49f3] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px]">
+            <h1 className="font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#6e49f3] md:leading-[4 5px] md:text-[40px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px]">
               Cybersecurity Engineer
               </h1>
             <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
