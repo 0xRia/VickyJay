@@ -1,6 +1,6 @@
 # 0xria's- Personal Portfolio Website
 
-![0xria's Portfolio Screenshot](./public/images/cover.png)
+![0xria's Portfolio Screenshot](/public/images/cover.png)
 
 Welcome to my personal portfolio! This project showcases my cybersecurity skills and projects I've worked on. Feel free to explore the different sections to learn more about me and my work.
 
@@ -40,7 +40,7 @@ If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: gloria.u.samuel@gmail.com
 - GitHub: [Gloria Samuel](https://github.com/0xria)
-- Portfolio: [preview]: in progress...
+- Portfolio: [preview]: https://0xria.vercel.app/
 
 ## Todos
 
