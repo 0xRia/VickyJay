@@ -154,7 +154,7 @@ export const ExpCircle = ({ className, fill }) => {
         cy="16"
         r="16"
         transform="matrix(1 0 0 -1 0 32)"
-        fill="#1ED760"
+        fill="#3B82F6"
         fillOpacity="0.1"
       />
       <circle
@@ -162,7 +162,7 @@ export const ExpCircle = ({ className, fill }) => {
         cy="10"
         r="10"
         transform="matrix(1 0 0 -1 6 26)"
-        fill="#1ED760"
+        fill="#3B82F6"
       />
     </svg>
   );

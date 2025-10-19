@@ -8,19 +8,15 @@ const Navbar = () => {
       <main className="">
         <header
           className={clsx(
-            "fixed z-40 top-0 md:relatives bg-[#061417]/90 pb-3  w-full pt-[20px] px-[32px] md:py-[30px] lg:px-[80px]"
+            "fixed z-40 top-0 md:relatives bg-[#191970]/90 pb-3  w-full pt-[20px] px-[32px] md:py-[30px] lg:px-[80px]"
           )}
         >
           <nav className="flex items-center justify-between">
-            {/* <h2
-              className={`font-clashbold font-semibold text-[18px] md:text-[25px] leading-[]`}
-            >
-              VickyJay<span>.</span>
-            </h2> */}
+           
             <NavLink to="/">
               {({ isActive }) => (
                 <div
-                  className={`before:content-[''] font-clashbold font-semibold text-[18px] md:text-[25px] lg:hover:before:bg-[#4C686F]s active:scale-[0.86] transition-all duration-100 before:absolute before:h-1 before:-bottom-1 before:transition-all before:duration-300 ${
+                  className={`before:content-[''] font-clashbold font-semibold text-[18px] md:text-[25px] lg:hover:before:bg-[#131385] active:scale-[0.86] transition-all duration-100 before:absolute before:h-1 before:-bottom-1 before:transition-all before:duration-300 ${
                     isActive
                       ? "text-white hover:before:w-full"
                       : "text-white hover:before:w-full"

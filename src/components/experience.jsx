@@ -17,7 +17,7 @@ const Experience = () => {
           <p
             className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] text-left lg:text-[20px] lg:leading-[30px]]`}
           >
-            Some list of my experience over the year..
+            Some list of my experience over the year...
           </p>
         </div>
         <div className="flex flex-row relative z-[100]  lg:justify-between mt-[30px]">
@@ -38,7 +38,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#5454f0] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   FauxFinder -{" "}
                   <span className="italic animate-pulse text-[#FFFFFF99] text-sm">
@@ -70,7 +70,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#5454f0] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Google Developer Student Clubs - Admiralty University of Nigeria
                 </p>
@@ -106,7 +106,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#5454f0] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Start Innovation Hub, Uyo  - Web Developer (Trainee)
                 </p>

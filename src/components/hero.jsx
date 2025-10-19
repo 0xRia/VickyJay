@@ -10,18 +10,21 @@ const Hero = () => {
             <div className="gradientText">
               <h1
               // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#FFFFFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
-              >Cybersecurity Engineer<span>.</span>
+              ><span>.</span>
               </h1>
             </div>
+            <h1 className="font-clashbold font-semibold text-[80%] leading-[36.9px] text-[#6e49f3] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px]">
+              Cybersecurity Engineer
+              </h1>
             <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
-              I enjoy building security systems to safeguard digital assets and data.
+              A passionate Cybersecurity Engineer dedicated to protecting systems and networks from cyber threats.
             </p>
             <div
               id="intro"
               className="text-[#FFFFFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
               <p className="max-w-[310px]">
-                4+ Years of experience in building security systems with my cybersecurity and backend expertise.
+              1+ Years of experience in building security systems with my cybersecurity and backend expertise.
               </p>
               <p className="max-w-[319px]">
                 Highly skilled at progressive enhancement, scalable backend systems, and security systems
@@ -41,7 +44,7 @@ const Hero = () => {
               >
                 <TwIcon
                   fill={`#FFFFFF`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-[#000080]`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#6e49f3] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-[#000080]`}
                 />
               </motion.a>
               <motion.a
@@ -54,7 +57,7 @@ const Hero = () => {
               >
                 <IgIcon
                   fill={`#FFFFFF`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-[#000080]`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#6e49f3] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-[#000080]`}
                 />
               </motion.a>
               <motion.a
@@ -67,7 +70,7 @@ const Hero = () => {
               >
                 <InIcon
                   fill={`#FFFFFF`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#000080] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-[#000080]`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#6e49f3] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-[#000080]`}
                 />
               </motion.a>
             </div>
@@ -84,7 +87,7 @@ const Hero = () => {
                 />
               </div>
               <motion.div
-                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#000080]`}
+                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#6e49f3]`}
               ></motion.div>
             </div>
           </div>

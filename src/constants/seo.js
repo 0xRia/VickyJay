@@ -4,7 +4,7 @@ const creator = "0xria";
 const author = creator;
 
 export const url = (slug) => {
-  return `https://vgithub.com/0xria${slug ?? ""}`;
+  return `https://github.com/0xria${slug ?? ""}`;
 };
 export const SEOdata = {
   homePage: {
@@ -12,7 +12,7 @@ export const SEOdata = {
     image,
     creator,
     url: url(),
-    title: "0xria- Crybersecurity Engineer",
+    title: "0xria - Crybersecurity Engineer",
     description:
       "I enjoy building security systems to safeguard digital assets and data.",
   },
