@@ -17,7 +17,7 @@ const Experience = () => {
           <p
             className={`font-medium text-[#FFFFFF99] text-[15px] leading-[22.5px] text-left lg:text-[20px] lg:leading-[30px]]`}
           >
-            Some list of my experience over the year...
+            My experience so far...
           </p>
         </div>
         <div className="flex flex-row relative z-[100]  lg:justify-between mt-[30px]">

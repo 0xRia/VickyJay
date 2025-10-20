@@ -88,9 +88,24 @@ const Footer = () => {
       </div>
 
       {/* Shout out */}
-      <div className="hidden  flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
+          <div className="flex flex-col gap-1 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs md:text-sm mt-6">
+            <p>
+              Inspo by{" "}
+              <a
+                href="https://vickyjay.vercel.app/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="text-white underline underline-offset-2 hover:text-[#BDB4FA] transition-colors duration-300"
+                title="Check out VickyJay's portfolio"
+              >
+                VickyJay
+              </a>
+            </p>
+          </div>
+
+      {/*<div className="hidden  flex_ flex-col gap-2 items-start justify-center text-center font-medium text-[#FFFFFF99] text-xs *:max-w-[320px] *:md:max-w-[992px] md:text-[18px]">
         <h3>
-          Inspiration - VickyJay&nbsp;
+          <h2>Inspiration - VickyJay</h2>&nbsp;
           <Link
             target="_blank"
             rel="noreferrer noopener"
@@ -113,7 +128,7 @@ const Footer = () => {
             Chinemerem
           </Link>
         </h3>
-      </div>
+      </div>*/}
     </section>
   );
 };

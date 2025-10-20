@@ -7,7 +7,7 @@ const Services = () => {
         <h1
           className={`flex items-center font-clashbold font-semibold text-white text-[20px] leading-[30.75px] lg:text-[60px] lg:leading-[73.8px]`}
         >
-          Services <span className={`animate-bounce`}>🔥</span>
+          My Services <span className={`animate-bounce`}>🔥</span>
         </h1>
         <p
           className={`text-[#FFFFFF99] font-medium text-[15px] leading-[22.5px]  lg:text-[18px] lg:leading-[27px]`}
@@ -38,7 +38,7 @@ const Services = () => {
               <p
                 className={`font-normal text-[13px] leading-[19.5px] mt-4 max-w-[308px] lg:mt-[27px] lg:max-w-[466px] lg:leading-[30px] lg:text-[20px]`}
               >
-                I create mindblowing server-side interfaces with Python, Django, Typescript
+                I create mindblowing server-side interfaces with Python, Django, Typescript,
                 Javascript.
               </p>
             </motion.div>
