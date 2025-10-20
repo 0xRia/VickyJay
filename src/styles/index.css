@@ -87,6 +87,27 @@ html {
   }
 }
 
+@keyframes blueWhiteFlow {
+  0% {
+    background-position: 0% 50%;
+    filter: drop-shadow(0 0 6px #1E90FF) drop-shadow(0 0 10px );
+  }
+  50% {
+    background-position: 100% 50%;
+    filter: drop-shadow(0 0 12px ) drop-shadow(0 0 18px #1E90FF);
+  }
+  100% {
+    background-position: 0% 50%;
+    filter: drop-shadow(0 0 6px #1E90FF) drop-shadow(0 0 10px);
+  }
+}
+
+.animate-blueWhiteFlow {
+  background-size: 200% 200%;
+  animation: blueWhiteFlow 6s ease-in-out infinite;
+}
+
+
 /* 
 =====================
 SEXY ANIMATION CODE

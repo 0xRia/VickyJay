@@ -7,15 +7,17 @@ const Hero = () => {
       <section className="mx-auto px-[38px] pt-[100px] md:px-[26px] lg:pt-[120px] lg:pl-[80px] lg:pr-[40px]">
         <div className="flex flex-col items-start flex-1 md:flex md:flex-row md:gap-10 md:items-center lg:flex lg:flex-row lg:items-center lg:gap-x-12 lg:justify-between">
           <div>
-            <div className="gradientText">
-              <h1
-              // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#FFFFFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
-              ><span>.</span>
-              </h1>
-            </div>
-            <h1 className="font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#6e49f3] md:leading-[4 5px] md:text-[40px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px]">
-              Cybersecurity Engineer
-              </h1>
+           <div className="gradientText">
+                <h1
+                  className="font-clashbold font-semibold text-[40px] leading-[36.9px]
+                  text-transparent bg-clip-text bg-gradient-to-r from-[#1E90FF] via-[#FFFFFF] to-[#1E90FF]
+                  bg-[length:200%_200%] animate-blueWhiteFlow
+                  md:text-[35px] lg:text-[60px] lg:leading-[73.8px]"
+                >
+                  Cybersecurity Engineer
+                </h1>
+           </div>
+
             <p className="gradientText font-medium font-pop text-[15px] text-[#FFFFFF] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]">
               A passionate Cybersecurity Engineer dedicated to protecting systems and networks from cyber threats.
             </p>
