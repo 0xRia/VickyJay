@@ -21,7 +21,7 @@ const Projects = () => {
           {projects.map((project, index) => (
             <div
               key={index}
-              className="w-full rounded-t-md p-3 relative overflow-hidden after:content-[''] after:absolute after:bg-zinc-100 after:w-0 after:h-0.5 after:bottom-0 after:right-0 after:transition-all after:duration-300 after:hover:left-0 after:hover:w-full space-y-3 hover:shadow-2xl hover:shadow-emerald-400/20 group bg-[#0A1C20] flex flex-col gap-[25px] md:gap-[29px] px-[27px] py-[40px] justify-center h-[322px] md:h-[373px] md:px-[32px] md:py-[55px]"
+              className="w-full rounded-t-md p-3 relative overflow-hidden after:content-[''] after:absolute after:bg-zinc-100 after:w-0 after:h-0.5 after:bottom-0 after:right-0 after:transition-all after:duration-300 after:hover:left-0 after:hover:w-full space-y-3 hover:shadow-2xl hover:shadow-emerald-400/20 group bg-[#0d0d6b] flex flex-col gap-[25px] md:gap-[29px] px-[27px] py-[40px] justify-center h-[322px] md:h-[373px] md:px-[32px] md:py-[55px]"
             >
               <h5 className="font-medium font-clash text-[20px] leading-[24.6px] md:text-[25px] md:leading-[30.75px]">
                 {project.name}

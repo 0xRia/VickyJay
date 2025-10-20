@@ -139,7 +139,7 @@ export function InIcon({ className, fill }) {
   );
 }
 
-export const ExpCircle = ({ className, fill }) => {
+export const ExpCircle = ({ className="animate-pulse-glow", fill }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

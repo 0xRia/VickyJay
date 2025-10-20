@@ -24,5 +24,5 @@ const App = () => {
 export default App;
 
 /*
-VickyJay Builds the Web!
+0xria Builds the Web!
 */

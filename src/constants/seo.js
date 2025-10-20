@@ -1,5 +1,5 @@
 const image =
-  "https://res.cloudinary.com/dkoe20rzl/image/upload/v1692130992/cover_xhnhes.png";
+  "https://res.cloudinary.com/dkoe20rzl/image/upload/v1692130992/cover.png";
 const creator = "0xria";
 const author = creator;
 

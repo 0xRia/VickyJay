@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
     Sitemap({
-      hostname: "https://victorola.me",
+      hostname: "https://0xria.vercel.app",
       dynamicRoutes: ["/"],
     }),
   ],
